@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import { 
   Sidebar, 
   TimeEntryForm, 
@@ -13,6 +13,7 @@ function App() {
     <div>
       <Sidebar />
       <TimeEntryForm />
+      HAlloXD<button>Test</button>
       <TimeEntryList />
       <CustomerList />
       <ActivityList />
